@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="living_streamer_str">直播中</string>
+</resources>
