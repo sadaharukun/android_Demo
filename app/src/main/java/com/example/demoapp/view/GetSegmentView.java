@@ -67,6 +67,7 @@ public class GetSegmentView extends View {
         pos = new float[2];
         tan = new float[2];
         mMatrix = new Matrix();
+        //git test
     }
 
     public void startPlay(){
